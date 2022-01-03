@@ -1,0 +1,38 @@
+{
+    "openvpn_server": [
+        {
+            "name":"服务器1","url":"https://www.kuaidiankd.com/keaidexiaotuzi/a.ovpn",
+            "openvpn":"a.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
+        }
+        ,
+        {
+            "name":"服务器2","url":"https://www.kuaidiankd.com/keaidexiaotuzi/b.ovpn",
+            "openvpn":"b.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
+        }
+        ,
+        {
+            "name":"服务器3","url":"https://www.kuaidiankd.com/keaidexiaotuzi/c.ovpn",
+            "openvpn":"c.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
+        }
+        ,
+        {
+            "name":"服务器4","url":"https://www.kuaidiankd.com/keaidexiaotuzi/d.ovpn",
+            "openvpn":"d.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
+        }
+        ,
+        {
+            "name":"服务器5","url":"https://www.kuaidiankd.com/keaidexiaotuzi/e.ovpn",
+            "openvpn":"e.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
+        }     ,
+        {
+            "name":"服务器6","url":"https://www.kuaidiankd.com/keaidexiaotuzi/f.ovpn",
+            "openvpn":"f.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
+        }
+    ]
+}
