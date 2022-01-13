@@ -1,7 +1,9 @@
 {
-"title" : "4.5.0更新了",
-"content" : "1.增加滑动功能了",
-"url"  :"http://106.52.235.71/ruanjian/kuaidian.apk",
-"md5" : "111666",
-"versionCode" : "450"
+  “更新”：“是”，
+  “新版本”：“0.8.3”，
+  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk",
+  "update_log"，添加删除信用卡接口。\r\n2，添加vip。\r\n3，添加自定义消费，一个小时不限制。\r\n4，放弃任务接口，小时内不生成。\r\n5，消费任务手动生成。",
+  "target_size": "5M",
+  “new_md5”：“b97bea014531123f94c3ba7b7afbaad2”，
+  “约束”：假
 }
