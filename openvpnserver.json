@@ -1,7 +1,7 @@
 {
     "openvpn_server": [
         {
-            "name":"新加坡 服务器",
+            "name":"新加坡-服务器",
 	    "imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
             "url":"https://www.kuaidiankd.com/keaidexiaotuzi/xinjiapo.ovpn",
             "openvpn":"xinjiapo.ovpn",
@@ -9,7 +9,7 @@
         }
         ,
         {
-            "name":"英国 服务器",
+            "name":"英国-服务器",
 	    "imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
             "url":"https://www.kuaidiankd.com/keaidexiaotuzi/yingguo.ovpn",
             "openvpn":"yingguo.ovpn",
