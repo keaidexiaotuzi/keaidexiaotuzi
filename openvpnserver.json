@@ -9,7 +9,7 @@
         }
         ,
         {
-            "name":"日本 服务器",
+            "name":"日本-服务器",
 		"imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
 	 "url":"https://www.kuaidiankd.com/keaidexiaotuzi/riben.ovpn",
             "openvpn":"riben.ovpn",
@@ -17,14 +17,14 @@
         }
         ,
         {
-            "name":"印度 服务器",
+            "name":"印度-服务器",
 		"imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
 	  "url":"https://www.kuaidiankd.com/keaidexiaotuzi/yindu.ovpn",
             "openvpn":"yindu.ovpn",
            "UserName":"racevpn.com-kd123","UserPassword":"kd123"
         }     ,
         {
-            "name":"巴西 服务器",
+            "name":"巴西-服务器",
 		"imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
 	  "url":"https://www.kuaidiankd.com/keaidexiaotuzi/baxi.ovpn",
             "openvpn":"baxi.ovpn",
@@ -39,7 +39,7 @@
         }
         ,
         {
-            "name":"加拿大 服务器",
+            "name":"加拿大-服务器",
 		"imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
 	  "url":"https://www.kuaidiankd.com/keaidexiaotuzi/jianada.ovpn",
             "openvpn":"jianada.ovpn",
