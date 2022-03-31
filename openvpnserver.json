@@ -1,14 +1,6 @@
 {
     "openvpn_server": [
         {
-            "name":"新加坡-服务器",
-	    "imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
-            "url":"https://www.kuaidiankd.com/keaidexiaotuzi/xinjiapo.ovpn",
-            "openvpn":"xinjiapo.ovpn",
-            "UserName":"vpn","UserPassword":"vpn"
-        }
-        ,
-        {
             "name":"英国-服务器",
 	    "imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
             "url":"https://www.kuaidiankd.com/keaidexiaotuzi/yingguo.ovpn",
@@ -45,6 +37,14 @@
 	  "url":"https://www.kuaidiankd.com/keaidexiaotuzi/baxi.ovpn",
             "openvpn":"baxi.ovpn",
              "UserName":"racevpn.com-kd123","UserPassword":"kd123"
+        },
+	{
+            "name":"新加坡-服务器",
+	    "imageurl":"https://www.kuaidiankd.com/keaidexiaotuzi/server.png",
+            "url":"https://www.kuaidiankd.com/keaidexiaotuzi/xinjiapo.ovpn",
+            "openvpn":"xinjiapo.ovpn",
+            "UserName":"vpn","UserPassword":"vpn"
         }
+        ,
     ]
 }
